@@ -6,3 +6,5 @@ sudo apt-get install jenkins
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
 sudo systemctl status jenkins
+Now, open browser and run locahostIP:8080 and hit enter
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
